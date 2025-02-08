@@ -11,8 +11,8 @@ DR Frame Timer shows a small graph of elapsed frame time, over time.
 - Red lines on the graph indicate that > 16ms was spent in `tick`. You'll be dipping below 60fps at this point and will want to look into performance optimisations.
   
 ## Installation
-
-Preferred install is via DragonRuby builtin [download_stb_rb](https://docs.dragonruby.org/#-----download_stb_rb(_raw)-)
+https://docs.dragonruby.org/#/api/runtime?id=download_stb_rb_raw
+Preferred install is via DragonRuby builtin [download_stb_rb](https://docs.dragonruby.org/#/api/runtime?id=download_stb_rb_raw)
 
 First, download the lib, using the DragonRuby Console:
 
